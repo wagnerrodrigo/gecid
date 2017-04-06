@@ -1,4 +1,5 @@
-	O Grupo de Estudos visa discutir e pesquisar o conhecimento sobre questões relacionadas ao desenvolvimento de aplicações 
+	
+   O Grupo de Estudos visa discutir e pesquisar o conhecimento sobre questões relacionadas ao desenvolvimento de aplicações 
 para Ciência de Dados, envolvendo determinadas áreas da Computação, tais como: linguagem de programação e banco de dados. Além disso, 
 tem o objetivo de realizar pesquisas que abrangem os processos para geração de aplicativos de software neste contexto. Este grupo de
 estudos também se constitui com pretensões de reunir demais professores dos cursos das áreas da Computação e afins, e graduandos do
@@ -8,4 +9,4 @@ reuniões periódicas e debates, assim como realizar seminários abertos à comu
 Ciência de Dados e Tecnologias), também possui o objetivo de contribuir para a formação e especialização dos alunos, visando a produção
 acadêmica e ampliação do conhecimento nas áreas da Computação mencionadas nesta apresentação. 
 	
-	Coordenador: Prof. Evaldo de Oliveira da Silva
+   Coordenador: Prof. Evaldo de Oliveira da Silva
