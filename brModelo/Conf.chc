@@ -9,9 +9,9 @@
       <ExibirLog Valor="False"/>
     </Configuracoes>
     <Arquivos>
-      <Arq01 Valor="C:\EVALDO\BRMODELO\MDL_2_TVC.BRM"/>
-      <Arq02 Valor=""/>
-      <Arq03 Valor=""/>
+      <Arq01 Valor="C:\USERS\EVALDO\GOOGLE DRIVE\CESJF\GRUPO DE ESTUDO\SOFTWARE ENGINEERING FOR BIG DATA\GIT\EXERÍCIOS\EXERCÍCIOS MBD_MAICON ALCÂNTARA\EXERCICIO 02.BRM"/>
+      <Arq02 Valor="C:\USERS\EVALDO\GOOGLE DRIVE\POSESTACIO DE SA\MODULO XML E ONTOLOGIAS\ATIVIDADES EXERCICIOS\MODELO_EXERCICIO_1.BRM"/>
+      <Arq03 Valor="C:\EVALDO\BRMODELO\MDL_2_TVC.BRM"/>
       <Arq04 Valor=""/>
       <Arq05 Valor=""/>
     </Arquivos>
